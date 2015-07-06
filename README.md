@@ -1,4 +1,4 @@
 # github test
 repo to test github
 
-[testlink](http://github.com)
+[test link](http://help.github.com)
